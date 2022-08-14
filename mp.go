@@ -9,7 +9,7 @@ import (
 	"net/mail"
 	"os"
 
-	"github.com/jhillyerd/go.enmime"
+	"github.com/jhillyerd/goenmime"
 )
 
 type Attachment struct {
